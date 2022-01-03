@@ -6,5 +6,5 @@
     <input type="text" name="address" value="{{$data['address']}}"><br><br>
     <input type="text" name="mail" value="{{$data['mail']}}"><br><br>
     <button type="submit">Update</button>
-      
+         
 </form>
