@@ -11,7 +11,7 @@ use Validator;
 class UserController extends Controller
 {
     function index()
-    {
+    { 
     
             return   DB::select("select *from users");
     
