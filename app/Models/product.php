@@ -10,3 +10,4 @@ class product extends Model
     public $connection="mysql2";
     use HasFactory;
 }
+   
